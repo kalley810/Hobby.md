@@ -4,7 +4,8 @@ This is the hobby portion of the project
 These are a few of my hobbies:
 
 - Playing **Rainbow Six Siege** on Xbox
-  -Also playing GTA 5 and other games
+  
+   -Also playing GTA 5 and other games
   
 -Longboarding nearby trails and at parks
 
