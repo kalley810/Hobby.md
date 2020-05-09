@@ -3,7 +3,7 @@ This is the hobby portion of the project
 
 These are a few of my hobbies:
 
--Playing **Rainbow Six Siege** on Xbox
+-Playing *Rainbow Six Siege* on Xbox
   
 -Longboarding nearby trails and at parks
 
